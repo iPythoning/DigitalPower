@@ -19,3 +19,6 @@ DefaultContentLanguage = "en"
 [author]
   name = "AgileFan"
   homepage = ""
+  [params]
+  [params.navigation]
+    help = "Help"
