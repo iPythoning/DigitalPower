@@ -3,7 +3,7 @@ disqusShortname = ""
 languageCode = "en-us"
 paginate = "5"
 summaryLength = "10"
-theme = "northendlab-hugo"
+theme = ""
 title = "DigitalPower"
 [[menu.footer]]
 URL = "contact"
@@ -25,12 +25,12 @@ weight = 2
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
 author = " Aureliano"
-contact_form_action = "#"
-copyright = "&copy; 2020 [Gethugothemes](https://gethugothemes.com) All Rights Reserved"
-description = "This is meta description"
+contact_form_action = ""
+copyright = ""
+description = ""
 google_tag_manager = ""
 home = "Home"
-logo = "images/logo.svg"
+logo = ""
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
