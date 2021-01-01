@@ -24,5 +24,9 @@ fields:
   name: type
   label: type
   default: post
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
 pages:
 - exampleSite/content/digitalpower-born.md
