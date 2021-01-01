@@ -42,7 +42,7 @@ expire_days = 2
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
 enable = true
 image = "images/hugo-muscot.svg"
-title = "Get the best hugo templates"
+title = ""
 [params.cta.button]
 enable = true
 label = "Visit Here"
